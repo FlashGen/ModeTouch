@@ -1,1 +1,15 @@
 README
+
+This version of Mode is to provide developers with an insight on how to port a web based game on to various touch device platforms (Android, iOS, BlackBerry PlayBook). It makes use of virtual controllers and dynamic screen resizing as well as minor performance optimizations (although further optimization can be made).
+
+It also uses a set of Virtual Controllers the source of which you can access here: 
+
+https://github.com/FlashGen/Virtual_Controllers
+
+For further information please see the following articles:
+
+http://blog.flashgen.com/2011/06/11/developing-games-for-multiple-devices/
+http://blog.flashgen.com/2011/06/20/creating-icons-for-multiple-devices/
+http://blog.flashgen.com/2011/07/16/my-10-tips-when-developing-for-multiple-devices
+http://blog.flashgen.com/gaming/general-gaming-articles/virtual-controllers-for-touch-based-devices-pt-1/
+http://blog.flashgen.com/gaming/general-gaming-articles/virtual-controllers-for-touch-based-devices-pt-2/
